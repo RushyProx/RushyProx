@@ -1,13 +1,12 @@
 
-bex: "Bex ist mega gay"
+test: "Hello World"
 
 # Das stimmt halt fr
-aliIstGay: true
+testBool: true
 
 
 wilderInt: 100
 
-# Wenn das geht amk ich bin einfach scheiss genie
 haha:
   testString: "Das ist ein Test"
   testArray:
