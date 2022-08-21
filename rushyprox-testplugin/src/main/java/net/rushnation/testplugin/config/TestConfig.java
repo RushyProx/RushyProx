@@ -5,17 +5,17 @@ import net.rushnation.rushyprox.config.ConfigFile;
 import net.rushnation.rushyprox.config.TestObject;
 import net.rushnation.rushyprox.config.YamlConfig;
 
-@ConfigFile(fileName = "aligay.yml", destination = "")
+@ConfigFile(fileName = "config.yml", destination = "")
 public class TestConfig extends YamlConfig {
 
-    public String bex = "Bex ist mega gay";
+    public String test = "Hello World";
 
     @Comment("Das stimmt halt fr")
-    public boolean aliIstGay = true;
+    public boolean testBool = true;
 
     public Integer wilderInt = 100;
 
-    @Comment("Wenn das geht amk ich bin einfach scheiss genie")
+    @Comment("This is a comment")
     public TestObject haha = new TestObject();
 
 }
