@@ -3,7 +3,7 @@ example:
 - name: "ExampleServer"
   ip: "0.0.0.0"
   port: 1923
-- name: "Huansohn"
+- name: "Test"
   ip: "0.0.1.0"
   port: 1111
 
