@@ -1,0 +1,9 @@
+# Write down the servers here. They should have 'ip' and 'port'
+example:
+- name: "ExampleServer"
+  ip: "0.0.0.0"
+  port: 1923
+- name: "Huansohn"
+  ip: "0.0.1.0"
+  port: 1111
+

@@ -1,0 +1,21 @@
+
+bex: "Bex ist mega gay"
+
+# Das stimmt halt fr
+aliIstGay: true
+
+
+wilderInt: 100
+
+# Wenn das geht amk ich bin einfach scheiss genie
+haha:
+  testString: "Das ist ein Test"
+  testArray:
+  - "Das"
+  - "Ist"
+  - "Ein"
+  - "Test"
+  c: "s"
+
+
+haha.okay: "ja"

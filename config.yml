@@ -1,0 +1,18 @@
+# The ip of the proxy
+ip: "0.0.0.0"
+
+# The port where the proxy should run
+port: 19132
+
+# The max amount of clients that can connect
+maxClients: 50
+
+# The motd of the proxy
+motd: "RushyProx is cool!"
+
+# Should be Xbox Auth enabled? true or false
+xboxAuth: true
+
+# This feature may come out soon
+sentry: false
+
